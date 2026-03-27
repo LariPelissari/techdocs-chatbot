@@ -7,6 +7,10 @@ Este projeto implementa um sistema de atendimento automatizado baseado em Inteli
 A solução utiliza **embeddings**, **busca vetorial** e uma arquitetura **ChatWithDocs (RAG - Retrieval Augmented Generation)** para localizar trechos relevantes da documentação e gerar respostas contextualizadas.
 
 ---
+## 🚀 Aplicação Online
+
+[▶️ Abrir Chatbot no Streamlit](https://https://techdocs-chatbot-emb.streamlit.app/)
+---
 
 ## 🎯 Objetivo
 
