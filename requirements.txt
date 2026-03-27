@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+scikit-learn
+torch
+transformers
+huggingface-hub
