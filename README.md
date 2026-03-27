@@ -9,7 +9,8 @@ A solução utiliza **embeddings**, **busca vetorial** e uma arquitetura **ChatW
 ---
 ## 🚀 Aplicação Online
 
-[▶️ Abrir Chatbot no Streamlit](https://https://techdocs-chatbot-emb.streamlit.app/)
+[▶️ Abrir Chatbot no Streamlit](https://techdocs-chatbot-emb.streamlit.app/)
+
 ---
 
 ## 🎯 Objetivo
