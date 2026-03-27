@@ -159,6 +159,7 @@ Isso garante:
 
 ## 👨‍💻 Autor
 Lari Pelissari 
+
 Projeto desenvolvido como atividade acadêmica na disciplina:
 
 **Inteligência Artificial e Machine Learning – Analytics e IA Generativa**
