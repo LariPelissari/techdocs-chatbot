@@ -1,0 +1,9 @@
+Sistema TechDocs Manager
+
+Para redefinir a senha do usuário:
+1. Acesse Configurações
+2. Clique em Segurança
+3. Selecione Redefinir senha
+4. Informe o e-mail cadastrado
+
+O sistema envia automaticamente um link de recuperação.

@@ -1,0 +1,13 @@
+API TechDocs
+
+A API REST permite integração com sistemas externos.
+
+Endpoint principal:
+https://api.techdocs.com/v1
+
+Autenticação:
+Bearer Token
+
+Método:
+GET /documentos
+POST /tickets
